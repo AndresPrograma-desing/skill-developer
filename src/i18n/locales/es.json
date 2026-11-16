@@ -1,0 +1,59 @@
+{
+  "app": {
+    "title": "Plantilla React + Vite",
+    "subtitle": "React Starter Template",
+    "description": "Base de desarrollo lista para producción con arquitectura modular, gestión de estado y cliente HTTP preconfigurados.",
+    "pathLabel": "src/app/screens/modules/home/index.jsx"
+  },
+  "callout": {
+    "title": "AnteriorityUI Integrado",
+    "message": "Librería de componentes UI interna lista para acelerar el desarrollo del frontend."
+  },
+  "stack": {
+    "react": "React 19",
+    "vite": "Vite",
+    "redux": "Redux Toolkit",
+    "scss": "SCSS Modules",
+    "axios": "Axios",
+    "prettier": "Prettier",
+    "ui": "AnteriorityUI"
+  },
+  "buttons": {
+    "primary": "Iniciar Proyecto",
+    "secondary": "Documentación"
+  },
+  "f1": {
+    "title": "Fórmula 1",
+    "sidebar": {
+      "standings": "Posiciones",
+      "lastRace": "Última carrera"
+    },
+    "actions": {
+      "refresh": "Actualizar",
+      "logout": "Cerrar sesión"
+    },
+    "cards": {
+      "lastRace": "Última carrera",
+      "fastestLap": "Vuelta rápida"
+    },
+    "standingsTitle": "Tabla de posiciones — Pilotos",
+    "columns": {
+      "position": "Pos.",
+      "driver": "Piloto",
+      "team": "Equipo",
+      "points": "Puntos",
+      "wins": "Victorias"
+    },
+    "favorite": {
+      "title": "Piloto favorito",
+      "label": "Elegí tu piloto favorito",
+      "placeholder": "Buscá un piloto...",
+      "empty": "Todavía no elegiste un piloto favorito.",
+      "position": "Posición",
+      "team": "Equipo",
+      "points": "Puntos",
+      "wins": "Victorias"
+    },
+    "empty": "-"
+  }
+}

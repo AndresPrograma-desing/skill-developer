@@ -1,0 +1,59 @@
+{
+  "app": {
+    "title": "React + Vite Template",
+    "subtitle": "React Starter Template",
+    "description": "Production-ready development base with modular architecture, state management, and a preconfigured HTTP client.",
+    "pathLabel": "src/app/screens/modules/home/index.jsx"
+  },
+  "callout": {
+    "title": "AnteriorityUI Integrated",
+    "message": "Internal UI component library ready to speed up frontend development."
+  },
+  "stack": {
+    "react": "React 19",
+    "vite": "Vite",
+    "redux": "Redux Toolkit",
+    "scss": "SCSS Modules",
+    "axios": "Axios",
+    "prettier": "Prettier",
+    "ui": "AnteriorityUI"
+  },
+  "buttons": {
+    "primary": "Start Project",
+    "secondary": "Documentation"
+  },
+  "f1": {
+    "title": "Formula 1",
+    "sidebar": {
+      "standings": "Standings",
+      "lastRace": "Last race"
+    },
+    "actions": {
+      "refresh": "Refresh",
+      "logout": "Log out"
+    },
+    "cards": {
+      "lastRace": "Last race",
+      "fastestLap": "Fastest lap"
+    },
+    "standingsTitle": "Driver Standings",
+    "columns": {
+      "position": "Pos.",
+      "driver": "Driver",
+      "team": "Team",
+      "points": "Points",
+      "wins": "Wins"
+    },
+    "favorite": {
+      "title": "Favorite driver",
+      "label": "Choose your favorite driver",
+      "placeholder": "Search a driver...",
+      "empty": "You haven't picked a favorite driver yet.",
+      "position": "Position",
+      "team": "Team",
+      "points": "Points",
+      "wins": "Wins"
+    },
+    "empty": "-"
+  }
+}
